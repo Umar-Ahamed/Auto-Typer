@@ -31,7 +31,8 @@ Side Note: You will have to run the script and then press "enter" for the script
 ## Usage/Examples
 ![image](https://user-images.githubusercontent.com/66582928/218377920-63dc6d0e-9d43-49de-a09b-2e61f052659b.png)
 
-
+## Disclaimer
+Please do not reupload my work without my permisson.
 
 
 ## 🚀 About Me
