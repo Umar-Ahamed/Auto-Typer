@@ -2,6 +2,8 @@
 # Auto Typer
 This script uses the pyautogui and time modules to automate the process of typing text from a specified file. The typing speed can be adjusted by changing the value of the speed variable. Before starting to type, the script waits for 3 seconds. The text file should be in the same directory as the script and encoded in "utf-8". After typing each line of text, the script will press the "enter" key.
 
+## Prerequiste
+Must have python https://www.python.org/downloads/
 
 ## Installation
 Windows - Install my repo from the zip file
