@@ -34,6 +34,8 @@ Side Note: You will have to run the script and then press "enter" for the script
 ## Disclaimer
 Please do not reupload my work without my permisson.
 
+## Educational Purposes Only
+Please do not use this for any suspicious use.
 
 ## 🚀 About Me
 I'm a highschooler who is intrested in coding and cybersecurity
