@@ -47,7 +47,7 @@ I'm a highschooler who is intrested in coding and cybersecurity
 ## 🛠 Skills
 (Javascript, HTML, CSS, python) beginner
 
-I know the bascis of bash, linux commands.
+I know the basics of bash, linux commands.
 
 
 ## 🔗 Links
